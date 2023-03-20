@@ -15,8 +15,6 @@ En el siguiente link, encontrarán los notebooks correspondientes a los casos pr
 
 [Víctor Hugo Terán](https://www.linkedin.com/in/vhteran/)
 
-- [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
-
 ### Contenido
 
 | Semana | Tema | Binder     | Descargar |
