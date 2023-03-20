@@ -13,7 +13,7 @@ En el siguiente link, encontrarán los notebooks correspondientes a los casos pr
 
 ### Docente
 
-[Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)
+[Víctor Hugo Terán](https://www.linkedin.com/in/vhteran/)
 
 - [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
 
