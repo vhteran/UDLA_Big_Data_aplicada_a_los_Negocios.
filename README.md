@@ -22,12 +22,4 @@
 
 - Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitca-online/HEAD)
 
-- [Volver al índice](#ig)
 
-### Anexo: Introducción a Python 3
-
-- [Introducción a la computación en Python](https://marsgr6.github.io/presentations/ICP2021/index.html)
-
-- [Numpy](https://anaconda.org/marsgr6/numpy/notebook)
-
-- [Matplotlib](https://anaconda.org/marsgr6/matplotlib/notebook)
