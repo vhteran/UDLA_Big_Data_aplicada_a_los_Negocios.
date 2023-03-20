@@ -1,4 +1,4 @@
-# Analítica predictiva
+# Big Data aplicada a los Negocios
 
 Estimados estudiantes, por favor encuentren en este repositorio los Notebooks con los que trabajaremos a lo largo de las 4 semanas.
 
