@@ -8,7 +8,6 @@
 
 | Semana | Tema | Binder     | Descargar |
 | :---:  | :---------------------------------------------   | :------------ | :------------ |
-| 0      | [Introducción](https://marsgr6.github.io/presentations/intro_estadistica_de_negocios.slides.html#/)  |     |     |
 | 1      | [Análisis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=descriptive_statistics.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/descriptive_statistics/download?version=)  |
 |        | [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=exploratory_data_analysis.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/exploratory_data_analysis/download?version=)  |
 | 2      | [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=discrete_distributions.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/discrete_distributions/download?version=)  |
