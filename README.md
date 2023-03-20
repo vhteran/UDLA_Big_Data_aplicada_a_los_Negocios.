@@ -4,12 +4,6 @@ Estimados estudiantes, por favor encuentren en este repositorio los Notebooks co
 
 En el siguiente link, encontrarán los notebooks correspondientes a los casos prácticos y las tareas de cada unidad
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vhteran/UDLA_Big_Data_aplicada_a_los_Negocios/main)
-<h1><a name="ig">Índice General</a></h1>
-
-- [Analítica Descriptiva](#ad)
-- [Analítica Predictiva](#ap) 
-
-<h2><a name="ad">Analítica Descriptiva</a></h2>
 
 ### Docente
 
@@ -27,7 +21,7 @@ En el siguiente link, encontrarán los notebooks correspondientes a los casos pr
 | 4      | [Estadística Inferencial: Intervalos de confianza](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_inference.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/statistical_inference/download?version=)  |
 |       | [Estadística Inferencial: Pruebas de hipótesis](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_tests.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_tests.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/statistical_tests/download?version=)  |
 
-- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
+- Ejecute los notebooks online en el siguiente link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vhteran/UDLA_Big_Data_aplicada_a_los_Negocios/main)
 
 
 #################
